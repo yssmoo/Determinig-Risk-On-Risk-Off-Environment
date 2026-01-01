@@ -1,2 +1,12 @@
 # Determinig-Risk-On-Risk-Off-Environment
-An analytic python programm that determine performance of different asset class in 4 macroeconomic regimes 
+An analytical Python program that determines the performance of different asset classes across four macroeconomic regimes
+
+    20 years of data
+    Use of yoy, all series are monthly
+    Dont forget to put your own FRED api key or use the simplified function
+    The assets are all US based
+    The macroeconomic data are CPI and growth
+    The outputs are 3 heatmaps:
+        Vol/Regime
+        Returns/Regime
+        Normal Returns/Regime
